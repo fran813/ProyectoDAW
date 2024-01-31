@@ -9,7 +9,6 @@
     $sql_db="prueba";
 
     echo 'hola';
-
 ?>
 
 <!DOCTYPE html>
